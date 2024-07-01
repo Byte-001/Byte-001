@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byte-001" alt="byte-001" /></a> </p>
 
-- 🔭 I’m currently working on **My shopping cart project**
-
 - 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Javascript,HTML,CSS**
