@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Byte-001
 - 👀 I am interested in teaching myself programming. I started learning programming in October 2021 with Javascript.
 - 🏫 I am a computer programming student in İzmir University of Economics
-- 🌱 I am currently learning Javascript for React.js
+- 🌱 I am currently learning React.js
 - 🏢 Currently, I seek internships and junior positions
 - 📫 You can reach me via email: ardakoca957@gmail.com
